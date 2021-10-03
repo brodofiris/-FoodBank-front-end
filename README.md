@@ -5,3 +5,4 @@ FoodBank project made with Expo. The main goal of the project is to reduce food 
 
 <p>From an ethical point of view, food waste has a direct impact on society. While we are throwing away food, many people around the world have limited access to food. Meanwhile, population growth means higher consumption and more demand for processed foods.</p>
 
+![](pics/UmVGb29kLnBkZg_01.jpg) 
